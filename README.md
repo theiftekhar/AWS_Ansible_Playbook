@@ -1,2 +1,2 @@
-# AWS_Ansible_Playbook
-How to configure AWS resources using Ansible playbook
+# AWS-Provisioning-using-Ansible-
+Playbooks for AWS
